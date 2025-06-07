@@ -1,6 +1,6 @@
 # Secure Git Fundamentals for Security Engineers
 
-This repo is your complete guide to mastering Git and GitHub workflows — not just as a developer, but as a security engineer who needs to understand version control from a *defensive*, *forensic*, and *collaborative* lens.
+This repo is your complete guide to mastering Git and GitHub workflows, not just as a developer, but as a security engineer who needs to understand version control from a *defensive*, *forensic*, and *collaborative* lens.
 
 ## 🔐 Why Git Matters in Security
 
